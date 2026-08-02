@@ -102,7 +102,7 @@ export const projects: Project[] = [
       "Testimonial carousel, animated stat counters, embedded map, contact form",
     ],
     demo: "https://framelabsfoundry.com/",
-    cover: "https://framelabsfoundry.com/assets/hero-image.webp",
+    cover: "/projects/framelabs-foundry.png",
     problem:
       "The studio needed a site that could show off editing work and convert visitors into paying clients through clear pricing.",
     approach:
@@ -146,8 +146,7 @@ export const projects: Project[] = [
       "Bilingual content structure (Bangla instruction, English industry terms)",
     ],
     demo: "https://vibexen.com",
-    cover:
-      "https://storage.googleapis.com/gpt-engineer-file-uploads/KsHWyUgs47RDLFUTAbHRHfvwK703/social-images/social-1784487172357-vibexen-cover.webp",
+    cover: "/projects/vibexen.png",
     problem:
       "Most AI-coding education content is English-only, which is a real barrier for Bangla-speaking learners.",
     approach:
